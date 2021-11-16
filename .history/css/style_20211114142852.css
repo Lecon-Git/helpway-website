@@ -1,4 +1,4 @@
-body {
+    body {
     margin: 0;
     padding: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -274,7 +274,4 @@ ul li#why_item {
 
 .f_child {
     flex: 1;
-}
-
-
-/*  */
+    /*  */
